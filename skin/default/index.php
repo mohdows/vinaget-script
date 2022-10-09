@@ -10,7 +10,7 @@
 		</head>
 		<body>
 			<!--[if lt IE 9]><script src="http://cdnjs.cloudflare.com/ajax/libs/es5-shim/2.0.8/es5-shim.min.js"></script><![endif]-->
-			<script type="text/javascript" language="javascript" src="images/jquery-1.12.4.min.js"></script>
+			<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 			<script type="text/javascript" src="images/ZeroClipboard.js"></script>
 			<script type="text/javascript" src="images/sprintf.js"></script>
 			<script type="text/javascript" src="<?php echo $skin;?>/selectize.min.js"></script>
